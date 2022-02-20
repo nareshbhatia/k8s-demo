@@ -27,3 +27,6 @@ Run the webapp from command line:
 ```sh
 minikube service webapp-service
 ```
+
+Note that the terminal needs to remain open for the webapp to run.
+Control-C will stop the web app.
